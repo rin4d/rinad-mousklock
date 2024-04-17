@@ -1,0 +1,25 @@
+body{ margin:0px;
+  font-family: "Sarabun", sans-serif;
+font-weight: 10;
+font-style: normal;
+border-radius: 4px; 
+border: 1px solid #ccc; 
+padding: 8px; 
+box-sizing: border-box;
+}
+
+header nav{
+  background-color:rgba(65, 65, 65, 0.997);
+  padding: 10px;
+  text-align: right;
+  transition: all 0.2s ease;
+  border-bottom: 2px solid rgba(65, 65, 65, 0.997);
+}
+header nav a{
+  color:white;
+  text-decoration: none;
+  border-bottom: 2px solid white;
+  }
+
+
+
